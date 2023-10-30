@@ -1,0 +1,27 @@
+
+.color-picker-container {
+  text-align: center;
+}
+
+.color-list {
+  list-style: none;
+  padding: 0;
+  display: flex; 
+  text-align: center;
+}
+
+.color-item {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  cursor: pointer;
+  text-align: center;
+}
+.button-class{
+  width: 200px;
+  height: 40px;
+  margin: 10px;
+  border-radius: 5px;
+  color: black;
+  font-size: 16px;
+}
